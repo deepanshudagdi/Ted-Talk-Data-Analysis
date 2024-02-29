@@ -33,6 +33,6 @@
 ## Conclusion
 This project involved a comprehensive analysis of the TED Talks dataset, providing valuable insights for the platform. Key findings include variations in Finding the most popular TED talks, Finding the most popular TED talk Speaker, Finding authors who speak frequently, and Judging the correlation between views and likes. These insights can guide revenue optimization and marketing strategies.
 
-## Author Deepanshu Dagdi
+## Author: Deepanshu Dagdi
 
 
