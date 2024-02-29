@@ -1,11 +1,37 @@
-<br> For Ted Talk analysis, I will answer the following aspects from data cleansing of data sets to exploratory data analysis using data visualization.
-<br>
-Q. Finding the most popular TED talks
-<br>
-Q. Finding the most popular TED talks Speaker
-<br>
-Q. Judge the correlation between views and likes
-<br>
-Q. Find authors who speak frequently
-<br>
-Author: Deepanshu Dagdi
+# Ted Talks Data Analysis
+
+## Table of Contents
+- [Overview](#overview)
+- [Objective](#objective)
+- [Data](#data)
+- [Analysis](#analysis)
+- [Insights](#insights)
+- [Conclusion](#conclusion)
+
+## Overview
+-
+
+## Objective
+-
+
+## Data
+-
+
+## Analysis
+- Initial data exploration
+- Visualizations 
+- Correlation analysis
+- Insights from the data
+
+## Insights
+
+- Finding the most popular TED talks
+- Finding the most popular TED talks Speaker 
+- Judge the correlation between views and likes
+- Find authors who speak frequently
+
+## Conclusion
+-
+
+
+
