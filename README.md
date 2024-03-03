@@ -9,13 +9,12 @@
 - [Conclusion](#conclusion)
 
 ## Overview
-- For Ted Talk analysis, I will answer the following aspects from data cleansing of data sets to exploratory data analysis using data visualization.
-
+- This project entails conducting a comprehensive analysis of TED Talks, covering tasks ranging from data cleansing to exploratory data analysis through data visualization.
+  
 ## Objective
-- The objective of this analysis is to get insights from TED Talks dataset for make a better platform for talks 
-
+- The primary objective of this analysis is to extract insights from the TED Talks dataset, enhance the platform for authors, and optimize revenue generation for the platform.
 ## Data
-- The dataset used for this analysis contains information about Title, Author, Views, Like, and links.
+- The dataset used for this analysis contains information about Title, Author, Views, Likes, and links.
 
 ## Analysis
 - Initial data exploration
